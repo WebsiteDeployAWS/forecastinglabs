@@ -25,12 +25,12 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/business-science-logo.png
+    image: logos/forecastinglabsnoback.png
     link: /
     brandName: Forecasting Labs
     # Default width/height. Uncomment if you need to change
-    width: 40
-    height: 40
+    #width: 120
+    #height: 100
   
   # Web Fonts Available Here: https://fonts.google.com/
   googleFontImport: 'https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Roboto:wght@400;600&family=Montserrat:wght@700&family=Roboto+Condensed&display=swap'
@@ -43,8 +43,8 @@ params:
     mutedgrey_color: "#999" # "#999" # Contols writing 
     greydark_color: "#4a4a4a" # "#4a4a4a" Controls Headers
     bluegrey_color: "#2c3e50" # "#444F60" (Controls Headers & Footer Background)
-    navbar_color: "#2c3e50" # "#FFF"
-    navbar_text_color: "#FFF" # #999
+    navbar_color: "#FFF" # "#FFF"
+    navbar_text_color: "#999" # #999
   
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbarStyle:
@@ -169,9 +169,9 @@ params:
   
   footer:
     # Logo (from /images/logos/___)
-    logo: business-science-logo.png
-    navbarLogoWidth: "100px"
-    navbarLogoHeight: "100px"
+    logo: forecastinglabsnoback.png
+    #navbarLogoWidth: "100px"
+    #navbarLogoHeight: "100px"
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
